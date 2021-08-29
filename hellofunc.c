@@ -3,7 +3,7 @@
 #include "hellofunc.h"
 
 void myPrintHelloMake(void) {
-    printf("Hello, Hacker Schoolers!\n");
+    printf("Hello, Hacker Schoolers and Supplychainers!\n");
 
     return;
 }
