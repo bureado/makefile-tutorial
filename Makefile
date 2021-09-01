@@ -17,3 +17,8 @@ build-v4:
 	cp Makefile Makefile.orig
 	echo "Makefile version 4"
 	cp Makefile-v4 Makefile
+
+build-v5:
+	cp Makefile Makefile.orig
+	echo "Makefile version 5"
+	cp Makefile-v5 Makefile
